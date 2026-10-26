@@ -1,0 +1,11 @@
+# Exclude raw data files
+*.csv
+*.zip
+
+# Ignore local system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environments / checkpoints
+venv/
+.ipynb_checkpoints/
